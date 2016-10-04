@@ -4,6 +4,18 @@ Basic client for a CRUD calendar application
 Here is a link to this organizations Github Workflow Standards: [Github Workflow Standards](https://github.com/cs-club-appdev/cs-club-calendar-client/wiki/Github-Workflow-Standards)
 
 ## Development Dependencies
+### Command Line Interface (CLI)
+A command line interface is a users interface to a computers operating system.  The command line works by allowing users to entering commands into the prompt and having them be executed by the computer.  Most of the technologies we will use in this project will leverage the command line including Git, Npm, Node, Ember, Express and MongoDB.
+
+This project will focus on using the Unix command line interface.
+
+#### Resources
+[Basic Unix Commands](http://mally.stanford.edu/~sr/computing/basic-unix.html)
+
+[List of Commands](https://en.wikipedia.org/wiki/List_of_Unix_commands)
+
+[Codecademy Tutorial](https://www.codecademy.com/learn/learn-the-command-line)
+
 ### Git
 Git is a version control system.  Below are a list of links on installation, documentation and tutorials. 
 
@@ -23,6 +35,14 @@ GitHub is a web-based Git repository hosting service, not the version control sy
 
 #### Resources
 [Guides](https://guides.github.com/)
+
+### JavaScript
+This project is going to be written in JavaScript.  JavaScript is a high-level, dynamic, untyped, and interpreted programming language.  Javascript is the language of choice when working in web development.
+
+#### Resources
+[Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
+[Codecademy Tutorial](https://www.codecademy.com/learn/javascript)
 
 ### Node.js
 You need to have Node installed in order to run our application.
